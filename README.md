@@ -21,7 +21,7 @@ level–order representation, with each line representing one level of the tree.
 each line has 1 instruction of the form: [label] instruction [arguments...] or label
 2
 
-•
+• hashtablsize is the amount of entries you wish to enter into your hash table. If you choose a number greater than possible, it will simply fill the remaining rows with empty columns of data.
 
 directive argument. In the first case, the line contains a standard instruction. In the
 second case, the line contains a memory allocation directive. Square brackets indicate that
